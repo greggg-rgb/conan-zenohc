@@ -1,3 +1,7 @@
+# Based on https://github.com/ZettaScaleLabs/conan-recipes/blob/main/zenoh-c-prebuilt/all/conanfile.py
+# Just created an independent conanfile for easier management.
+# TODO: Put together using submodules
+
 from conan import ConanFile
 from conan.errors import ConanInvalidConfiguration
 from conan.tools.files import copy, download, get
