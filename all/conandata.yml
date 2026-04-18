@@ -1,0 +1,26 @@
+sources:
+  "1.5.1":
+    "Windows":
+      "x86_64":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/releases/download/1.5.1/zenoh-c-1.5.1-x86_64-pc-windows-msvc.zip"
+        sha256: "53bcd23ca78a181a5e869d5468f2b4c1af8a9b7da90552cb297f0322c51e42e5"
+    "Linux":
+      "x86_64":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/releases/download/1.5.1/zenoh-c-1.5.1-x86_64-unknown-linux-gnu-standalone.zip"
+        sha256: "38d5802fc7a239b2dfb0170bdd837894ddc3c2cf26948869cb30d97abd71cf22"
+      "armv7hf":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/releases/download/1.5.1/zenoh-c-1.5.1-armv7-unknown-linux-gnueabihf.zip"
+        sha256: "cebbe2576b517cd3ab414f7258409b03462d3c70bb33198690466f8b2d86e68c"
+      "armv8":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/releases/download/1.5.1/zenoh-c-1.5.1-aarch64-unknown-linux-gnu.zip"
+        sha256: "f47a51b6da35314c22aae84dddf224bd138ca21691b9f7d68314da0550275f0a"
+    "Macos":
+      "x86_64":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/releases/download/1.5.1/zenoh-c-1.5.1-x86_64-apple-darwin.zip"
+        sha256: "c49d248c0d72aa30a35221a0f89a5a70203fa11a5b1dd0339c4a41787016ace2"
+      "armv8":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/releases/download/1.5.1/zenoh-c-1.5.1-aarch64-apple-darwin.zip"
+        sha256: "70ef6ad0355a652eccfc7b08e50058a6126caca6373a2ee05f3fc8dfbdfcb7f7"
+    "license":
+        url: "https://github.com/eclipse-zenoh/zenoh-c/raw/1.5.1/LICENSE"
+        sha256: "01a44774f7b1a453595c7c6d7f7308284ba6a1059dc49e14dad6647e1d44a338"
